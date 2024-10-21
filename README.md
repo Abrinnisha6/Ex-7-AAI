@@ -6,7 +6,7 @@
 
 ## Aim :
 
-to perform automatic text summarization using Natural Language Processing (NLP) techniques.
+To perform automatic text summarization using Natural Language Processing (NLP) techniques.
  
 ## Algorithm :
 
