@@ -26,11 +26,12 @@ Define Text Preprocessing Function to tokenize, remove stopwords, and perform st
 
     - Calculate the frequency of each word in the preprocessed text.
     - Calculate a score for each sentence based on the sum of word frequencies.
-    - Select the top N sentences with the highest scores to form the summary.<br>
+    - Select the top N sentences with the highest scores to form the summary.
     
 ### Step 5 : Construct the main program to read the paragraph  and perform text summarization
-      - Generate and print the original text.<br>
-      - Generate and print the text summary using the  Text Summarization function<br>
+
+      - Generate and print the original text.
+      - Generate and print the text summary using the  Text Summarization function.
       
 ## Program :
 ```
